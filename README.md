@@ -13,7 +13,22 @@ If the purchase satisfies all the requirements then the total amount paid will b
 5. You will be prompted to "Enter the input file name that needs to be tested:", enter the inputfile name.
 6. Once the project is run successfully and the corresponding output.txt or error.txt files will be created in the same project folder structure in the workspace.
 
+## Design Patterns Used:
+
+### Chain of Responsibility
+### Singleton
+### Factory
+
 ## Screenshots of Test Cases:
 
 ### Test Case 1: 
 
+![testcase1](https://user-images.githubusercontent.com/91310893/144797685-4d347cf3-7274-4439-bdd5-9bc9543935a6.PNG)
+
+### Test Case 2:
+
+![testcase2](https://user-images.githubusercontent.com/91310893/144797776-1a2b584f-eef5-498e-aa2e-2580b96dd4b3.PNG)
+
+### Test Case 3:
+
+![testcase3](https://user-images.githubusercontent.com/91310893/144797811-068894ff-faa4-48ce-b233-0e394a0ad1f7.PNG)
