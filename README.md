@@ -16,8 +16,25 @@ If the purchase satisfies all the requirements then the total amount paid will b
 ## Design Patterns Used:
 
 ### Chain of Responsibility
+
+This pattern is used to validate the quantity and price of the purchase in a step-by-step way. First, the quantity of the products and the cap of teh products are validated and then once the quantities are check the next step is to calculate the total price of the purchase.
+
+![image](https://user-images.githubusercontent.com/91310893/144801415-58ea11ef-c877-4e0c-b493-78312e7760ac.png)
+
+
 ### Singleton
+
+This pattern is used to get the cap values of the categories for the application. when an Instance of cap values are needed, the getInstance() method is called to get the cap values of the categories.
+
+![image](https://user-images.githubusercontent.com/91310893/144799710-a2a6e7b9-84f4-429e-9f37-96f0c0ad7311.png)
+
 ### Factory
+
+This pattern is used to identify and read the dataset file or read the Input file. When the Handler decides which file to read then the respective class is implemented.
+ScanInputFile class is used to read the input files provided where the ReadData class is used to read the dataset file.
+
+![image](https://user-images.githubusercontent.com/91310893/144802714-3e166f90-0423-40dc-a891-fa918ab8898a.png)
+
 
 ## Screenshots of Test Cases:
 
