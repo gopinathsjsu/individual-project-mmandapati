@@ -1,5 +1,7 @@
 # individual-project-mmandapati
 individual-project-mmandapati created by GitHub Classroom
+### Name : Monica Lakshmi Mandapati.
+### Student Id: 015219711.
 
 ## Problem Statement
 To Develop a java application which contains the information of the items and cards, where the users can purchase the products. This Application validates the purchases by checking the existing quantity and cap allowed for that category.
